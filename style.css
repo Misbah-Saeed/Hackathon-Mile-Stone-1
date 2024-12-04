@@ -1,0 +1,73 @@
+*{
+    padding:0;
+    margin:0;
+    
+}
+.main-content{
+    padding:10px;
+        min-height:100vh;
+        width:60%;
+       margin:4px auto;
+    background-color:   #cdb2f0;
+       
+}
+.index{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.pro{
+    margin-top: 10px;
+    padding:10px;
+    margin:10px ;
+    width: 90%; 
+    border: 2px solid #333;
+    background-color:    #2a1b4d;
+    height: 30px; 
+    
+}
+h2 {
+    color: #f0f0f0;
+   
+    
+
+}
+.edu{
+ margin-top: 10px;
+ padding:10px;
+ 
+}
+.edu ul{
+    padding:10px;
+    margin: 10px;
+}
+
+.skill{
+    margin-top: 10px;
+    padding:10px;
+  
+}
+.skill ul{
+    padding:10px;
+    margin: 10px;
+}
+.exp{
+    margin-top: 10px;
+    padding:10px;
+}
+.exp ul{
+    padding:10px;
+    margin: 10px;
+}
+.lang{
+    margin-top: 10px;
+    padding:10px;
+   
+}
+.lang ul{
+    padding:10px;
+    margin: 10px;
+}
+p{
+    margin: 20px;
+
+}
